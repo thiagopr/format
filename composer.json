@@ -1,0 +1,12 @@
+{
+  "name": "thiagopr/format",
+  "description": "Classes to format Number, Date, Etc",
+  "require": {
+    "php": "^5.5.12"
+  },
+    "autoload": {
+        "psr-4": {
+          "App\\" : "src/App"
+        }
+    }
+}
