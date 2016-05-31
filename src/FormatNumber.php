@@ -1,7 +1,6 @@
 <?php
 
-namespace App\Number;
-
+namespace ThiagoPr\DisplayFormat;
 
 class FormatNumber {
 
